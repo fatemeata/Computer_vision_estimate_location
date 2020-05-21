@@ -4,4 +4,6 @@
 
 
 **Requirement:**
-download and put the vlfeat-0.9.21 library which is an open source library that implemented computer vision algoritms like SIFT, k-means , ...
+
+vlfeat-0.9.21 library, 
+which is an open source library that implemented computer vision algoritms like SIFT, k-means , ...
